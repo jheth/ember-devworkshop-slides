@@ -1,0 +1,17 @@
+[
+    "index.md",
+    "goals.md",
+    "asset-management.md",
+    "installation.md",
+    "new-project.md",
+    "project-structure.html",
+    "running-the-server.md",
+    "addons.md",
+    "ember-data.md",
+    "ember-data-features.md",
+    "the-store.md",
+    "url-conventions.md",
+    "model-lifecycle.md",
+    "components.md",
+    "actions.md"
+]
