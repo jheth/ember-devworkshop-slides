@@ -1,3 +1,3 @@
 ## Action Bubbling
 
-![Action Bubbling](images/action-bubbling.png)
+![Action Bubbling](https://raw.githubusercontent.com/jheth/ember-devworkshop-slides/master/images/action-bubbling.png)

@@ -1,3 +1,3 @@
 ## Ember Data
 
-![Ember-Data](images/ember-data-sketch.png)
+![Ember-Data](https://raw.githubusercontent.com/jheth/ember-devworkshop-slides/master/images/ember-data-sketch.png)
