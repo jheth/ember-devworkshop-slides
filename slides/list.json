@@ -8,6 +8,10 @@
     "running-the-server.md",
     "addons.md",
     "ember-data.md",
+    "ember-data-features.md",
+    "the-store.md",
+    "url-conventions.md",
+    "model-lifecycle.md",
     "components.md",
     "actions.md"
 ]
